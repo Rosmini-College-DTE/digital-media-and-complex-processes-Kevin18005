@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b3q8yk6fgdj7e"
+path="res://.godot/imported/detail_overhangWide.obj-2f02ff5e0b6dae0a2b1e6e8c4a8b98dd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/detail_overhangWide.obj-2f02ff5e0b6dae0a2b1e6e8c4a8b98dd.mesh"]
+
+source_file="res://Models/OBJ format/detail_overhangWide.obj"
+dest_files=["res://.godot/imported/detail_overhangWide.obj-2f02ff5e0b6dae0a2b1e6e8c4a8b98dd.mesh", "res://.godot/imported/detail_overhangWide.obj-2f02ff5e0b6dae0a2b1e6e8c4a8b98dd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bm8il1g13acyr"
+path="res://.godot/imported/sign_billboard.obj-4b91960a14b996401e30de7934a2af29.mesh"
+
+[deps]
+
+files=["res://.godot/imported/sign_billboard.obj-4b91960a14b996401e30de7934a2af29.mesh"]
+
+source_file="res://Models/OBJ format/sign_billboard.obj"
+dest_files=["res://.godot/imported/sign_billboard.obj-4b91960a14b996401e30de7934a2af29.mesh", "res://.godot/imported/sign_billboard.obj-4b91960a14b996401e30de7934a2af29.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
