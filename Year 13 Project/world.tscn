@@ -1,0 +1,172 @@
+[gd_scene load_steps=57 format=3 uid="uid://ctci8nf866ker"]
+
+[ext_resource type="PackedScene" uid="uid://dguaagghtr3id" path="res://Models/GLTF format/detail_awning.glb" id="1_luem6"]
+[ext_resource type="PackedScene" uid="uid://clyqaipqnijou" path="res://Models/GLTF format/detail_awningWide.glb" id="2_4v0lh"]
+[ext_resource type="PackedScene" uid="uid://v6d3meyu3i8e" path="res://Models/GLTF format/detail_overhang.glb" id="3_6vg0a"]
+[ext_resource type="PackedScene" uid="uid://5fccmja03id7" path="res://Models/GLTF format/detail_overhangWide.glb" id="4_x0lfv"]
+[ext_resource type="PackedScene" uid="uid://dwdrbpqvlb3i8" path="res://Models/GLTF format/detail_umbrella.glb" id="5_6yyx6"]
+[ext_resource type="PackedScene" uid="uid://cipy6yhp7csrp" path="res://Models/GLTF format/detail_umbrellaDetailed.glb" id="6_2un2q"]
+[ext_resource type="PackedScene" uid="uid://skjssu77mbo8" path="res://Models/GLTF format/large_buildingA.glb" id="7_cwxjq"]
+[ext_resource type="PackedScene" uid="uid://cr71wnrta3jwb" path="res://Models/GLTF format/large_buildingB.glb" id="8_7x2pa"]
+[ext_resource type="PackedScene" uid="uid://krjrq85kitvw" path="res://Models/GLTF format/large_buildingC.glb" id="9_42y0k"]
+[ext_resource type="PackedScene" uid="uid://b1bcaqgqdr40i" path="res://Models/GLTF format/large_buildingD.glb" id="10_dpfnd"]
+[ext_resource type="PackedScene" uid="uid://cmak07s0gd2tw" path="res://Models/GLTF format/large_buildingE.glb" id="11_i7q1u"]
+[ext_resource type="PackedScene" uid="uid://xcxpm523pk3j" path="res://Models/GLTF format/large_buildingF.glb" id="12_i4o0o"]
+[ext_resource type="PackedScene" uid="uid://8wx3kg1fmehl" path="res://Models/GLTF format/large_buildingG.glb" id="13_d4os1"]
+[ext_resource type="PackedScene" uid="uid://dkg7l6ahru0kf" path="res://Models/GLTF format/low_buildingA.glb" id="14_v0k65"]
+[ext_resource type="PackedScene" uid="uid://bjs8asij1wafh" path="res://Models/GLTF format/low_buildingB.glb" id="15_lt0lt"]
+[ext_resource type="PackedScene" uid="uid://dhkof2at7n63r" path="res://Models/GLTF format/low_buildingC.glb" id="16_e7x12"]
+[ext_resource type="PackedScene" uid="uid://3mkh6oblsfmj" path="res://Models/GLTF format/low_buildingD.glb" id="17_mjsxt"]
+[ext_resource type="PackedScene" uid="uid://dqt5rrxtr6uv5" path="res://Models/GLTF format/low_buildingE.glb" id="18_dj3ff"]
+[ext_resource type="PackedScene" uid="uid://bluc0l44uyys4" path="res://Models/GLTF format/low_buildingF.glb" id="19_6jxa6"]
+[ext_resource type="PackedScene" uid="uid://cs0aro1uvx7ki" path="res://Models/GLTF format/low_buildingG.glb" id="20_db31r"]
+[ext_resource type="PackedScene" uid="uid://ceqo2mpr6qugk" path="res://Models/GLTF format/low_buildingH.glb" id="21_7dmqx"]
+[ext_resource type="PackedScene" uid="uid://chaag4gfma35m" path="res://Models/GLTF format/low_buildingI.glb" id="22_hij0g"]
+[ext_resource type="PackedScene" uid="uid://dgo04t1esevxm" path="res://Models/GLTF format/low_buildingJ.glb" id="23_ktilu"]
+[ext_resource type="PackedScene" uid="uid://d0nec63msvi2e" path="res://Models/GLTF format/low_buildingK.glb" id="24_py2wf"]
+[ext_resource type="PackedScene" uid="uid://dwqwpdswrvry2" path="res://Models/GLTF format/low_buildingL.glb" id="25_yvv4d"]
+[ext_resource type="PackedScene" uid="uid://hphvpwx23ljw" path="res://Models/GLTF format/low_buildingM.glb" id="26_rfcyi"]
+[ext_resource type="PackedScene" uid="uid://vq53kobk7m6m" path="res://Models/GLTF format/low_buildingN.glb" id="27_j8ufq"]
+[ext_resource type="PackedScene" uid="uid://dtl1f1n6482vf" path="res://Models/GLTF format/low_wideA.glb" id="28_vfmdo"]
+[ext_resource type="PackedScene" uid="uid://bvnnc8y8nl8ct" path="res://Models/GLTF format/low_wideB.glb" id="29_qsjd1"]
+[ext_resource type="PackedScene" uid="uid://5nl6xkd4qgaj" path="res://Models/GLTF format/roof_center.glb" id="30_mwsxi"]
+[ext_resource type="PackedScene" uid="uid://dvf4b20uh1riy" path="res://Models/GLTF format/roof_corner.glb" id="31_dj72f"]
+[ext_resource type="PackedScene" uid="uid://ddhofrkm25d4g" path="res://Models/GLTF format/roof_overhang.glb" id="32_qmlwx"]
+[ext_resource type="PackedScene" uid="uid://bbpk66oc1vfta" path="res://Models/GLTF format/roof_side.glb" id="33_3wv18"]
+[ext_resource type="PackedScene" uid="uid://8ybwujp3qxn5" path="res://Models/GLTF format/sign_billboard.glb" id="34_jefp4"]
+[ext_resource type="PackedScene" uid="uid://rvvtwku2ju8i" path="res://Models/GLTF format/sign_hospital.glb" id="35_kx5hb"]
+[ext_resource type="PackedScene" uid="uid://ceckfth8sycco" path="res://Models/GLTF format/skyscraperA.glb" id="36_2o54o"]
+[ext_resource type="PackedScene" uid="uid://d0m6woodmdoyq" path="res://Models/GLTF format/skyscraperB.glb" id="37_dfqj2"]
+[ext_resource type="PackedScene" uid="uid://fod2dbkrv0dt" path="res://Models/GLTF format/skyscraperC.glb" id="38_u2baf"]
+[ext_resource type="PackedScene" uid="uid://ccw1do2tb8ks3" path="res://Models/GLTF format/skyscraperD.glb" id="39_qy0ao"]
+[ext_resource type="PackedScene" uid="uid://bmkl5rt6g3edy" path="res://Models/GLTF format/skyscraperE.glb" id="40_aptoa"]
+[ext_resource type="PackedScene" uid="uid://d4ghvoqnaiomd" path="res://Models/GLTF format/skyscraperF.glb" id="41_mijvx"]
+[ext_resource type="PackedScene" uid="uid://d04oxpyen6xi7" path="res://Models/GLTF format/small_buildingA.glb" id="42_nahnn"]
+[ext_resource type="PackedScene" uid="uid://crivwbvtkskrk" path="res://Models/GLTF format/small_buildingB.glb" id="43_4h1dr"]
+[ext_resource type="PackedScene" uid="uid://d3hwxxcvi50cy" path="res://Models/GLTF format/small_buildingC.glb" id="44_0kd0x"]
+[ext_resource type="PackedScene" uid="uid://bjao7rkvlpk42" path="res://Models/GLTF format/small_buildingD.glb" id="45_k2ysp"]
+[ext_resource type="PackedScene" uid="uid://3gg8x8k7yycq" path="res://Models/GLTF format/small_buildingE.glb" id="46_43xny"]
+[ext_resource type="PackedScene" uid="uid://ccgmta4e6ooej" path="res://Models/GLTF format/small_buildingF.glb" id="47_1ekcp"]
+[ext_resource type="PackedScene" uid="uid://tgmurnqb1t3x" path="res://Models/GLTF format/wall_doorA.glb" id="48_sek78"]
+[ext_resource type="PackedScene" uid="uid://btjlkh1v2rpyn" path="res://Models/GLTF format/wall_doorB.glb" id="49_jndka"]
+[ext_resource type="PackedScene" uid="uid://d13kyg5a8rx4w" path="res://Models/GLTF format/wall_solid.glb" id="50_xgl32"]
+[ext_resource type="PackedScene" uid="uid://cfwom2cjqyotp" path="res://Models/GLTF format/wall_windowA.glb" id="51_2ogp3"]
+[ext_resource type="PackedScene" uid="uid://cstydg36b053" path="res://Models/GLTF format/wall_windowB.glb" id="52_s7fmq"]
+[ext_resource type="PackedScene" uid="uid://foeicuxx2m81" path="res://Models/GLTF format/wall_windowC.glb" id="53_1uryl"]
+[ext_resource type="PackedScene" uid="uid://di8nl6kyuqcsl" path="res://Models/GLTF format/wall_windowD.glb" id="54_45025"]
+[ext_resource type="PackedScene" uid="uid://dom2nwtu03f02" path="res://Models/GLTF format/wall_windowE.glb" id="55_snvga"]
+[ext_resource type="PackedScene" uid="uid://cyy5pyvwrbc1k" path="res://Models/GLTF format/wall_windowF.glb" id="56_hxakp"]
+
+[node name="World" type="Node3D"]
+
+[node name="detail_awning2" parent="." instance=ExtResource("1_luem6")]
+
+[node name="detail_awningWide2" parent="." instance=ExtResource("2_4v0lh")]
+
+[node name="detail_overhang2" parent="." instance=ExtResource("3_6vg0a")]
+
+[node name="detail_overhangWide2" parent="." instance=ExtResource("4_x0lfv")]
+
+[node name="detail_umbrella2" parent="." instance=ExtResource("5_6yyx6")]
+
+[node name="detail_umbrellaDetailed2" parent="." instance=ExtResource("6_2un2q")]
+
+[node name="large_buildingA2" parent="." instance=ExtResource("7_cwxjq")]
+
+[node name="large_buildingB2" parent="." instance=ExtResource("8_7x2pa")]
+
+[node name="large_buildingC2" parent="." instance=ExtResource("9_42y0k")]
+
+[node name="large_buildingD2" parent="." instance=ExtResource("10_dpfnd")]
+
+[node name="large_buildingE2" parent="." instance=ExtResource("11_i7q1u")]
+
+[node name="large_buildingF2" parent="." instance=ExtResource("12_i4o0o")]
+
+[node name="large_buildingG2" parent="." instance=ExtResource("13_d4os1")]
+
+[node name="low_buildingA2" parent="." instance=ExtResource("14_v0k65")]
+
+[node name="low_buildingB2" parent="." instance=ExtResource("15_lt0lt")]
+
+[node name="low_buildingC2" parent="." instance=ExtResource("16_e7x12")]
+
+[node name="low_buildingD2" parent="." instance=ExtResource("17_mjsxt")]
+
+[node name="low_buildingE2" parent="." instance=ExtResource("18_dj3ff")]
+
+[node name="low_buildingF2" parent="." instance=ExtResource("19_6jxa6")]
+
+[node name="low_buildingG2" parent="." instance=ExtResource("20_db31r")]
+
+[node name="low_buildingH2" parent="." instance=ExtResource("21_7dmqx")]
+
+[node name="low_buildingI2" parent="." instance=ExtResource("22_hij0g")]
+
+[node name="low_buildingJ2" parent="." instance=ExtResource("23_ktilu")]
+
+[node name="low_buildingK2" parent="." instance=ExtResource("24_py2wf")]
+
+[node name="low_buildingL2" parent="." instance=ExtResource("25_yvv4d")]
+
+[node name="low_buildingM2" parent="." instance=ExtResource("26_rfcyi")]
+
+[node name="low_buildingN2" parent="." instance=ExtResource("27_j8ufq")]
+
+[node name="low_wideA2" parent="." instance=ExtResource("28_vfmdo")]
+
+[node name="low_wideB2" parent="." instance=ExtResource("29_qsjd1")]
+
+[node name="roof_center2" parent="." instance=ExtResource("30_mwsxi")]
+
+[node name="roof_corner2" parent="." instance=ExtResource("31_dj72f")]
+
+[node name="roof_overhang2" parent="." instance=ExtResource("32_qmlwx")]
+
+[node name="roof_side2" parent="." instance=ExtResource("33_3wv18")]
+
+[node name="sign_billboard2" parent="." instance=ExtResource("34_jefp4")]
+
+[node name="sign_hospital2" parent="." instance=ExtResource("35_kx5hb")]
+
+[node name="skyscraperA2" parent="." instance=ExtResource("36_2o54o")]
+
+[node name="skyscraperB2" parent="." instance=ExtResource("37_dfqj2")]
+
+[node name="skyscraperC2" parent="." instance=ExtResource("38_u2baf")]
+
+[node name="skyscraperD2" parent="." instance=ExtResource("39_qy0ao")]
+
+[node name="skyscraperE2" parent="." instance=ExtResource("40_aptoa")]
+
+[node name="skyscraperF2" parent="." instance=ExtResource("41_mijvx")]
+
+[node name="small_buildingA2" parent="." instance=ExtResource("42_nahnn")]
+
+[node name="small_buildingB2" parent="." instance=ExtResource("43_4h1dr")]
+
+[node name="small_buildingC2" parent="." instance=ExtResource("44_0kd0x")]
+
+[node name="small_buildingD2" parent="." instance=ExtResource("45_k2ysp")]
+
+[node name="small_buildingE2" parent="." instance=ExtResource("46_43xny")]
+
+[node name="small_buildingF2" parent="." instance=ExtResource("47_1ekcp")]
+
+[node name="wall_doorA2" parent="." instance=ExtResource("48_sek78")]
+
+[node name="wall_doorB2" parent="." instance=ExtResource("49_jndka")]
+
+[node name="wall_solid2" parent="." instance=ExtResource("50_xgl32")]
+
+[node name="wall_windowA2" parent="." instance=ExtResource("51_2ogp3")]
+
+[node name="wall_windowB2" parent="." instance=ExtResource("52_s7fmq")]
+
+[node name="wall_windowC2" parent="." instance=ExtResource("53_1uryl")]
+
+[node name="wall_windowD2" parent="." instance=ExtResource("54_45025")]
+
+[node name="wall_windowE2" parent="." instance=ExtResource("55_snvga")]
+
+[node name="wall_windowF2" parent="." instance=ExtResource("56_hxakp")]
