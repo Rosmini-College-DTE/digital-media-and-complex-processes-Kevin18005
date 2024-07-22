@@ -3,18 +3,18 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://byb8mgkw3d8bh"
-path="res://.godot/imported/road_crossroad.glb-f27c056a26f2d44d827f9f543b7fc8a7.scn"
+uid="uid://japqgb68awf4"
+path="res://.godot/imported/road_crossroad.glb-60552d39fad513ec142dd4ffe61e54d1.scn"
 
 [deps]
 
-source_file="res://Models/Roads/road_crossroad.glb"
-dest_files=["res://.godot/imported/road_crossroad.glb-f27c056a26f2d44d827f9f543b7fc8a7.scn"]
+source_file="res://models/roads/road_crossroad.glb"
+dest_files=["res://.godot/imported/road_crossroad.glb-60552d39fad513ec142dd4ffe61e54d1.scn"]
 
 [params]
 
-nodes/root_type=""
-nodes/root_name=""
+nodes/root_type="Node3D"
+nodes/root_name="Scene Root"
 nodes/apply_root_scale=true
 nodes/root_scale=1.0
 meshes/ensure_tangents=true
@@ -22,7 +22,6 @@ meshes/generate_lods=true
 meshes/create_shadow_meshes=true
 meshes/light_baking=1
 meshes/lightmap_texel_size=0.2
-meshes/force_disable_compression=false
 skins/use_named_skins=true
 animation/import=true
 animation/fps=30
@@ -30,5 +29,4 @@ animation/trimming=false
 animation/remove_immutable_tracks=true
 import_script/path=""
 _subresources={}
-gltf/naming_version=1
 gltf/embedded_image_handling=1
