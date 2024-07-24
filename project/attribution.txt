@@ -1,0 +1,5 @@
+This project includes 3D models made by third parties.
+
+1. City Kit (Commercial) by Kenney: <https://www.kenney.nl/assets/city-kit-commercial> License: Creative Commons CC0
+2. City Kit (Roads) by Kenney: <https://www.kenney.nl/assets/city-kit-roads> License: Creative Commons CC0
+3. Nissan GTR by David Sirera: <https://poly.pizza/m/a_HKCtYAv2W> License: Creative Commons Attribution <https://creativecommons.org/licenses/by/3.0/> Unmodified

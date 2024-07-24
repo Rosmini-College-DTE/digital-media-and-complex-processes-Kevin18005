@@ -11,10 +11,6 @@ const ENGINE_POWER = 300
 var look_at
 
 
-func _ready():
-	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
-	look_at = global_position
-
 
 
 
