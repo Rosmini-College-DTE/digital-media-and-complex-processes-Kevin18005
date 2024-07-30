@@ -10,9 +10,8 @@ const ENGINE_POWER = 300
 
 var look_at
 
-
-
-
+func _ready():
+	Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)
 
 func _physics_process(delta):
 	steering = move_toward(steering, Input.get_axis("ui_right", "ui_left") * MAX_STEER, delta * 2.5)
